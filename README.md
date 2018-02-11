@@ -1,1 +1,3 @@
 # chrome-extension
+
+Currently, this extension comes from a tutorial found [here.](https://developer.chrome.com/extensions/getstarted "Getting Started: Building a Chrome Extension") Currently, I'm in the process of figuring out what features/functionality I would like to include in this extension, but don't have much inspiration yet. I figured it was better to find a starting point, familiarize myself with the languages, and start formatting the code for future use. Updates to come!
